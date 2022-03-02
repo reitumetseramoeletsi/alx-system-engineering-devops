@@ -1,1 +1,0 @@
-Writting and executing  scripts
