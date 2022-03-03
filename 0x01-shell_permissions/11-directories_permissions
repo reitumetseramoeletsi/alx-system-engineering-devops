@@ -1,2 +1,2 @@
 #!/bin/bash
-sudu chmod -R +111 */
+sudu chmod a+x */
