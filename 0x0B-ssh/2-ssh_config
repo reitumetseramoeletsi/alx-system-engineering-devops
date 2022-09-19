@@ -1,0 +1,4 @@
+# Configuring SSH vonfiguration file
+Host 3.236.209.52
+IdentityFile ~/.ssh/school
+PasswordAuthentication no
