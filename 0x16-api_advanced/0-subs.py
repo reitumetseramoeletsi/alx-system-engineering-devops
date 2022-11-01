@@ -1,6 +1,6 @@
 #!/usr/bin/python3
 """
-return number of subreddit subscribers 
+return number of subreddit subscribers
 """
 import requests
 import sys
